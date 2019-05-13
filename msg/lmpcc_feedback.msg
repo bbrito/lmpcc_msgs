@@ -14,6 +14,8 @@ float64 wW
 float64 window
 int32 search_points
 int32 enable_output
+int32 new_round
+int32 collision
 
 float64 vRef
 
