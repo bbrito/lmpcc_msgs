@@ -7,7 +7,7 @@ include_directories(include)
 
 add_message_files(
   DIRECTORY msg
-  FILES lmpcc_feedback.msg lmpcc_obstacle.msg lmpcc_obstacle_array.msg
+  FILES lmpcc_feedback.msg lmpcc_obstacle.msg lmpcc_obstacle_array.msg Control.msg
 )
 
 add_service_files(
