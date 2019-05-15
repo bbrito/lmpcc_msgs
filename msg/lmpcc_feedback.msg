@@ -16,7 +16,7 @@ int32 search_points
 int32 enable_output
 int32 new_round
 int32 collision
-
+float64 time_to_reach
 float64 vRef
 
 float64 obstacle_distance1
