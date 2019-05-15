@@ -14,9 +14,13 @@ float64 wW
 float64 window
 int32 search_points
 int32 enable_output
-int32 new_round
-int32 collision
 
+int32 total_trials
+int32 collision
+int32 total_success
+int32 total_timeout
+
+float64 time_to_reach
 float64 vRef
 
 float64 obstacle_distance1
@@ -35,6 +39,12 @@ float64 obsty_1
 float64 obsth_1
 float64 obsta_1
 float64 obstb_1
+
+float64 obstx_2
+float64 obsty_2
+float64 obsth_2
+float64 obsta_2
+float64 obstb_2
 
 float64[] robot_state
 
