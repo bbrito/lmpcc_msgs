@@ -22,9 +22,12 @@ int32 total_timeout
 
 float64 time_to_reach
 float64 vRef
+float64 time_of_arrival
 
 float64 obstacle_distance1
 float64 obstacle_distance2
+float64 obstacle_distance3
+float64 obstacle_distance4
 
 #obstacle_feed/Obstacles obstacles
 
@@ -45,6 +48,13 @@ float64 obsty_2
 float64 obsth_2
 float64 obsta_2
 float64 obstb_2
+
+float64 obstx_3
+float64 obsty_3
+float64 obsth_3
+float64 obsta_3
+float64 obstb_3
+
 
 float64[] robot_state
 
