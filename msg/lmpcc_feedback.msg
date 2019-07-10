@@ -55,6 +55,18 @@ float64 obsth_3
 float64 obsta_3
 float64 obstb_3
 
+float64 obstx_4
+float64 obsty_4
+float64 obsth_4
+float64 obsta_4
+float64 obstb_4
+
+float64 obstx_5
+float64 obsty_5
+float64 obsth_5
+float64 obsta_5
+float64 obstb_5
+
 
 float64[] robot_state
 
