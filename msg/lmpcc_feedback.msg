@@ -29,8 +29,6 @@ float64 obstacle_distance2
 float64 obstacle_distance3
 float64 obstacle_distance4
 
-#obstacle_feed/Obstacles obstacles
-
 float64 obstx_0
 float64 obsty_0
 float64 obsth_0
