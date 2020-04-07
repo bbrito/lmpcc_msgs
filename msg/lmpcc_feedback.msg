@@ -19,7 +19,7 @@ int32 total_trials
 int32 collision
 int32 total_success
 int32 total_timeout
-
+int32 total_collisions
 float64 time_to_reach
 float64 vRef
 float64 time_of_arrival
